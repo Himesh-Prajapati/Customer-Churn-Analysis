@@ -22,4 +22,4 @@ Telecom dataset ka analysis karke samajhna ki customers kyun churn (service chho
 
 ## 🔗 Project Links
 - Notebook: `TCM.ipynb`
-- Report (PDF): ![https://github.com/Himesh-Prajapati/Customer-Churn-Analysis/blob/main/report.png]
+- Report : ![screenshot](https://github.com/Himesh-Prajapati/Customer-Churn-Analysis/blob/main/report.png)
